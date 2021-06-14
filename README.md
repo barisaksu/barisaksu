@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Barış</h1>
 <h3 align="center">A passionate fullstack developer from Turkey</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=barisaksu&show_icons=true&locale=en&layout=compact" alt="barisaksu" /></p>
-
 - 🔭 I’m currently working on **FunnySub**
 
 - 🌱 I’m currently learning **Rust**
@@ -16,6 +14,9 @@
 - 📫 How to reach me **baris@barisaksu.com**
 
 - ⚡ Fun fact **I'm studying sound engineering.**
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=barisaksu&show_icons=true&locale=en&layout=compact" alt="barisaksu" /></p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
