@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Barış</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate fullstack developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=barisaksu&label=Profile%20views&color=0e75b6&style=flat" alt="barisaksu" /> </p>
-
-<p align="left"> <a href="https://twitter.com/barisaksu" target="blank"><img src="https://img.shields.io/twitter/follow/barisaksu?logo=twitter&style=for-the-badge" alt="barisaksu" /></a> </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=barisaksu&show_icons=true&locale=en&layout=compact" alt="barisaksu" /></p>
 
 - 🔭 I’m currently working on **FunnySub**
 
@@ -33,5 +31,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/barisaksu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="barisaksu" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=barisaksu&show_icons=true&locale=en&layout=compact" alt="barisaksu" /></p>
