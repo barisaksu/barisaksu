@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Barış</h1>
 <h3 align="center">A passionate fullstack developer from Turkey</h3>
 
-- 🔭 I’m currently working on **FunnySub**
+- 🔭 I’m currently working on **Vivaldi**
 
 - 🌱 I’m currently learning **Rust**
 
